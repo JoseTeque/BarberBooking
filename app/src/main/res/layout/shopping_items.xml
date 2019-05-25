@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp"
+    app:cardBackgroundColor="@android:color/white"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+         <ImageView
+             android:id="@+id/IdImageShopping"
+             android:src="@drawable/ic_image_black_24dp"
+             android:layout_width="100dp"
+             android:layout_height="100dp"
+             android:layout_gravity="center_horizontal"
+             />
+
+        <TextView
+            android:id="@+id/IdtxtNameShopping"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:text="@string/txtNameWax"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:weightSum="2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/IdTxtPriceShopping"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textSize="20sp"
+                android:gravity="start"
+                android:textStyle="bold"
+                android:textColor="@android:color/background_dark"
+                android:fontFamily="@font/bellerose"
+                android:text="@string/txtPrice"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/IdTxtCartShopping"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textSize="16sp"
+                android:gravity="center_horizontal"
+                android:textStyle="bold"
+                android:drawableEnd="@drawable/ic_shopping_cart_black_24dp"
+                android:textColor="@android:color/background_dark"
+                android:fontFamily="@font/bellerose"
+                android:text="@string/txtCart"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">BarberBooking</string>
+    <string name="FACEBOOK_APP_ID">2120755074710063</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">e20dcb27a19a426d9cdecfb9a564c7ce</string>
+    <string name="txtfont">Just Skip</string>
+    <string name="btnLogin">Login</string>
+    <string name="Home">Home</string>
+    <string name="Cart">Shoping</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edtxName">Your Name</string>
+    <string name="edtxAddress">Your Address</string>
+    <string name="btnUpdateInformation">Update</string>
+    <string name="txtUserName">JoseDev</string>
+    <string name="txtMemberType">Normal</string>
+    <string name="txtBooking">Booking</string>
+    <string name="txtShoping">Cart</string>
+    <string name="txtHistory">History</string>
+    <string name="txtNotification">Notification</string>
+    <string name="LookBook">Look Book</string>
+    <string name="btnPrevious">Previous</string>
+    <string name="btnNext">Next</string>
+    <string name="txtNameSalon">Salon #1</string>
+    <string name="txtaddressSalon">Address of Salon #1</string>
+    <string name="txtBarberName">Jose</string>
+    <string name="TxttimeSlot">9:00 - 9:30</string>
+    <string name="TxtTimeDescripcionSlot">Available</string>
+    <string name="TxtConfirm">Thank you for booking our services!!</string>
+    <string name="TxtConfirmInforma">Booking Information</string>
+    <string name="Txttime">10h at 09/05/2019</string>
+    <string name="TxtNameBooking">David</string>
+    <string name="TxtSalon1">Salon #1</string>
+    <string name="TxtWebSite">https://www.youtube.com</string>
+    <string name="TxtPhone">+56 940540453</string>
+    <string name="TxtOpenTime">9h00 - 19h00</string>
+    <string name="TxtLocation">Address of Salon #1</string>
+    <string name="btnConfirm">Confirm</string>
+    <string name="txtInformation">Your booking Information</string>
+    <string name="address_builler">Address :</string>
+    <string name="addresSalon"> Address Salon</string>
+    <string name="time_builler">Time : </string>
+    <string name="TimeSalon">Time</string>
+    <string name="StyleList_builler">StyleList :</string>
+    <string name="StyleList">Jose</string>
+    <string name="builler" />
+    <string name="Builet">Time</string>
+    <string name="txtChipWax">Wax</string>
+    <string name="txtChipSpray">Spray</string>
+    <string name="txtChipHairCare">Hair Care</string>
+    <string name="txtChipBodyCare">Body Care</string>
+    <string name="txtNameWax">Hair style wax</string>
+    <string name="txtPrice">$20</string>
+    <string name="txtCart" />
+
+</resources>
+    
